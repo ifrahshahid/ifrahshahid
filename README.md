@@ -1,9 +1,7 @@
 
-
 <h1 align="center">Hi 👋, I'm Ifrah</h1>
 <h3 align="center">A Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_423_752/0/1694701932900?e=1726704000&v=beta&t=lYcIK81_r7j7iy3DClsQVBYZ7hs25d9-KwA1CfAZ4hE">
-
+<div style="text-align: center;">
 
 - 🤝 I’m looking for help with **Open source Contributions**
 
