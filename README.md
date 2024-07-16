@@ -1,5 +1,5 @@
 
-<img src="https://buyonlinebacteriostaticwater.com/wp-content/uploads/2024/07/Brown-and-White-Minimal-Professional-Portfolio-Presentation-2.png" />
+![GIF](https://ifrahshahid.com/wp-content/uploads/2024/07/Github-Banner-1.gif)
 
 <br><br>
 
