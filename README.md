@@ -40,7 +40,3 @@ Open to collaborative projects and remote opportunities.
 <p align="left">
 <a href="https://linkedin.com/in/ifrah-shahid-7a8182204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifrah-shahid-7a8182204" height="30" width="40" /></a>
 </p>
-
-
-
-![Header](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
