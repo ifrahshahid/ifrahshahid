@@ -15,7 +15,7 @@ Open to collaborative projects and remote opportunities.
 
 <!-- Frameworks -->
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/pallets/flask/main/flask-logo/flask-icon.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=TtXEs5SeYLG8&format=png&color=000000" alt="flask" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 
 <!-- Tools & Technologies -->
